@@ -1,0 +1,46 @@
+- role: Full Stack Engineer
+  company: EndeavourX
+  dates: Jan 2025 — Present
+  bullets:
+    - Delivered the pub+ Footy Tipping initiative end-to-end across Flutter, .NET/C# and Azure cloud technologies.
+    - Led the technical design of the initiative, producing comprehensive sequence diagrams, database schemas, OpenAPI
+      specifications and documentation that was essential to the project's success.
+    - Drove measurable business impact; 30,000+ users engaged at launch, exceeding business expectations and contributing to a
+      14% increase in user spend month-on-month.
+
+- role: Mobile Apps Engineer
+  company: EndeavourX
+  dates: Oct 2023 — Jan 2025
+  bullets:
+    - Helped ship the initial release of the pub+ Flutter app as a member of the core product team.
+    - Drove iteration by engaging with users while fulfilling a support role; reduced app load times, improved session stability and guided UX improvements.
+    - Implemented a range of new features and supported multiple successful business initiatives.
+
+- role: Software Engineer
+  company: MILKRUN (OG)
+  dates: Jan 2022 — Apr 2023
+  bullets:
+    - Developed the MILKRUN Flutter app (utilising Riverpod, Freezed, MVVM, Ferry, REST, CLEAN) with a range of features,
+      including Market, Recipes, Post Order Feedback, Live Chat, Product Suggestions, and Product Sorting.
+    - Contributed to the backend in a full stack capacity using TypeScript, NodeJS, tRPC, PostgreSQL and MongoDB to deliver
+      features end-to-end.
+    - Operating in a fast-paced environment where user feedback and weekly delivery velocity were key to the business, I
+      consistently shipped high-quality features that helped position MILKRUN as an agile, market-responsive product.
+
+- role: Technical Specialist
+  company: IPF Digital Australia
+  dates: Jan 2021 — Dec 2021
+  bullets:
+    - Developed and tested the Credit24 app (available on Android/iOS) using Flutter (built using RESTful API's, MVC and BLoC
+      architecture) within a team of two which enabled easy-to-use self-service functionality for Credit24's customers.
+    - Designed and deployed an automated Statement of Account tool that eliminated 20–40 hours of weekly manual operations,
+      drastically reducing internal overhead and accelerating customer support response times.
+
+- role: Data and Technical Support Specialist
+  company: IPF Digital Australia
+  dates: Jan 2020 — Jan 2021
+  bullets:
+    - Used Python, MySQL and Excel to perform data analysis and deliver BAU reporting, empowering management with insights and
+      information.
+    - Supported the delivery of a "Fast Track" application triage system involving business analysis, scoping and defining of
+      requirements, data analysis, user testing and system testing which increased the capacity of the loan assessment team.

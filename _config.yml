@@ -1,0 +1,28 @@
+# Site settings
+title: alexdalton.dev
+tagline: Full Stack Engineer
+description: >-
+  A full stack engineer with 6+ years building products — from early-stage startups
+  to large-scale platforms used by hundreds of thousands of users.
+baseurl: ""
+url: "https://alexdalton2511.github.io"
+
+# Author
+author:
+  name: Alex Dalton
+  email: hello@alexdalton.dev
+  github: alexdalton2511
+  linkedin: alex-dalton-9b2064125
+
+# Build settings
+plugins: []
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .jekyll-cache/

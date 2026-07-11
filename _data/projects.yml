@@ -1,0 +1,35 @@
+- title: pub+
+  description: >-
+    pub+ is a loyalty platform for ALH Group's hotel and pub venues. As a core contributor across
+    Flutter, .NET/C#, and Azure, I helped scale the app to hundreds of thousands of active users.
+  tags:
+    - .NET/C#
+    - Flutter
+    - MongoDB
+    - Azure
+    - REST
+  apple: https://apps.apple.com/au/app/pub/id1635461474
+  google: https://play.google.com/store/apps/details?id=au.com.alhgroup.alhLoyaltyApp&hl=en_NZ
+
+- title: (OG) MILKRUN
+  description: >-
+    MILKRUN was a delivery service app which allowed users to order groceries (and more!) for home delivery. The company attracted
+    one of the largest Australian series A investments before being acquired by Woolworths. I joined the original core app team
+    and developed the MILKRUN Flutter app, working cross-functionally with the backend team.
+  tags:
+    - Flutter
+    - Firebase
+    - TypeScript
+    - Node.js
+    - PostgreSQL
+    - Shopify
+
+- title: Credit24
+  description: >-
+    Credit24 is a self-service app which allows users to manage their credit limit, draws and payments. I built this app from the
+    ground up with one other developer using Flutter for the front-end.
+  tags:
+    - Flutter
+    - BLoC
+    - REST
+  apple: https://apps.apple.com/au/app/credit24/id1574301283

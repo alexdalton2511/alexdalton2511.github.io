@@ -1,0 +1,23 @@
+- title: Full Stack Development
+  icon: "&#128187;"
+  description: >-
+    Building end-to-end applications from responsive front-ends to
+    scalable back-end services and everything in between.
+
+- title: API & Systems Design
+  icon: "&#9881;"
+  description: >-
+    Designing robust APIs, microservices, and distributed systems that are
+    maintainable, well-documented, and built for scale.
+
+- title: Cloud & DevOps
+  icon: "&#9729;"
+  description: >-
+    Deploying and managing infrastructure with CI/CD
+    pipelines, containerisation, and infrastructure as code.
+
+- title: Collaboration & Delivery
+  icon: "&#129309;"
+  description: >-
+    Working cross-functionally with product, design, and engineering teams
+    to ship high-quality software that meets user needs and business goals.

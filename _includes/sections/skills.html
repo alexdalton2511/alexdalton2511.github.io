@@ -1,0 +1,15 @@
+<section id="skills">
+    <div class="container">
+        <span class="section-label">Capabilities</span>
+        <h2>What I bring to the table</h2>
+        <div class="skills-grid">
+            {%- for skill in site.data.skills -%}
+            <div class="skill-card">
+                <div class="skill-icon">{{ skill.icon }}</div>
+                <h3>{{ skill.title }}</h3>
+                <p>{{ skill.description }}</p>
+            </div>
+            {%- endfor -%}
+        </div>
+    </div>
+</section>

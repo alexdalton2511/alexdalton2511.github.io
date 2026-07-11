@@ -1,0 +1,24 @@
+- title: BitShift (2026-Present)
+  description: >-
+    A totally custom MMORPG game engine, server and client. I've treated BitShift as an opportunity to learn completely
+    new technologies and paradigms, building everything from scratch in C# with MonoGame and OpenGL. This includes developing
+    my own graphics rendering pipeline, assets, shaders, network protocol, entity component system, and more. The project is still
+    in early development, but there's plenty I could show off if you're interested in seeing a demo.
+  tags:
+    - .NET
+    - C#
+    - MonoGame
+    - OpenGL
+    - HLSL
+
+- title: Mista Reborn (2023-2024)
+  description: >-
+    The premier Oceanic private Tibia server (MMORPG) which I ran from 2023 to 2024. I served as the lead developer and
+    administrator, responsible for all technical aspects of the server. We engaged a passionate community of players,
+    seeing over 100 concurrent users at peak times with a total unique player count exceeding 800.
+  tags:
+    - C++
+    - LUA
+    - MySQL
+    - PHP
+    - AWS Lightsail
